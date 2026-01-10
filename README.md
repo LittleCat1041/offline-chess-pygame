@@ -22,10 +22,10 @@ A fully functional offline chess game built from scratch using **Python** and **
 1.  **Clone the repository**
     ```bash
     git clone https://github.com/LittleCat1041/offline-chess-pygame.git
-    cd offline-chess-pygame
     ```
 2.  **Install dependencies**
     ```bash
+    cd offline-chess-pygame
     pip install -r requirements.txt
     ```
 3.  **Start the game**
