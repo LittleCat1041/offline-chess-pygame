@@ -21,7 +21,7 @@ Tech Stack
 How to Run
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/LittleCat1041/offline-chess-pygame.git](https://github.com/LittleCat1041/offline-chess-pygame.git)
+    git clone https://github.com/LittleCat1041/offline-chess-pygame.git
     cd offline-chess-pygame
     ```
 2.  **Install dependencies**
