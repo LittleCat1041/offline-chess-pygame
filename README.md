@@ -1,4 +1,4 @@
-# offline chess (pygame)
+# Offline Chess (pygame)
 A fully functional offline chess game built from scratch using **Python** and **Pygame**. This project demonstrates complex game logic implementation without relying on external chess engines.
 
 ## Key Features
