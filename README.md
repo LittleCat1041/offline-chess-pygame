@@ -9,14 +9,14 @@ A fully functional offline chess game built from scratch using **Python** and **
     * **Pawn Promotion** (Selectable pieces)
  - **Local Multiplayer:** 2-player mode on a single screen.
  - **Graphical Interface:** Custom UI built with Pygame surface rendering.
-   
+
+## Tech Stack
+ - Python, Pygame
+
 ## Controls
  - **Mouse Left Click:** Select and move pieces.
  - **Enter:** Restart the game after Checkmate/Draw.
  - **Ctrl + Shift + F:** ??? (Hidden Easter Egg 🤫)
-
-## Tech Stack
- - Python, Pygame
 
 ## How to Run
 1.  **Clone the repository**
