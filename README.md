@@ -26,6 +26,8 @@ A fully functional offline chess game built from scratch using **Python** and **
 2.  **Install dependencies**
     ```bash
     cd offline-chess-pygame
+    ```
+    ```bash
     pip install -r requirements.txt
     ```
 3.  **Start the game**
