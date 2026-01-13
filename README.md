@@ -19,21 +19,21 @@ A fully functional offline chess game built from scratch using **Python** and **
  - **Ctrl + Shift + F:** ??? (Hidden Easter Egg 🤫)
 
 ## How to Run
-1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/LittleCat1041/offline-chess-pygame.git
-    ```
-2.  **Install dependencies**
-    ```bash
-    cd offline-chess-pygame
-    ```
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Start the game**
-    ```bash
-    python Main.py
-    ```
+### 1.  **Clone the Repository**
+```bash
+git clone https://github.com/LittleCat1041/offline-chess-pygame.git
+```
+### 2.  **Install Dependencies**
+```bash
+cd offline-chess-pygame
+```
+```bash
+pip install -r requirements.txt
+```
+### 3.  **Start the game**
+```bash
+python Main.py
+```
 
 ## Screenshot
 
